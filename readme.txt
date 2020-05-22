@@ -22,7 +22,7 @@ Will my clients be able to pay in Pesetas?
 No, the peseta is not a legal tender, you must collect in Euros, Dollars or any other currency.
 
 == Screenshots ==
-1. Now you can select the \"Peseta\" as your currency
+[https://i.ibb.co/0KHhgZY/wc-currency-peseta.png Now you can select the \"Peseta\" as your currency]
 
 == Frequently Asked Questions ==
 Will my clients be able to pay in Pesetas?
