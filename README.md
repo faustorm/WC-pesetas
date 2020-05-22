@@ -1,1 +1,1 @@
-# woo-pesetas
+# WC-pesetas
