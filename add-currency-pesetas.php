@@ -1,8 +1,8 @@
 <?php
 
 /*
-Plugin Name: WC Currency Pesetas
-Plugin URI: https://faus.to/wordpress/plugins/woo-pesetas
+Plugin Name: Add Currency Pesetas
+Plugin URI: https://faus.to/wordpress/plugins/add-currency-pesetas
 Description: Add "Peseta" as currency to Woocommerce
 Version: 0.1
 Author: Fausto Madrid
