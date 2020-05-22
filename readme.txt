@@ -1,4 +1,4 @@
-=== wc-currency-pesetas ===
+=== add-currency-pesetas ===
 Contributors: faustorm
 Tags: woocommerce,currency
 Requires at least: 4.0
