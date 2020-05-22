@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: Woo-pesetas
+Plugin Name: WooCommerce-pesetas
 Plugin URI: https://faus.to/wordpress/plugins/woo-pesetas
 Description: Add "Peseta" as currency to Woocommerce
 Version: 0.1
