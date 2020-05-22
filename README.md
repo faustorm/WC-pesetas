@@ -1,1 +1,1 @@
-# WC-pesetas
+# wc-currency-pesetas
